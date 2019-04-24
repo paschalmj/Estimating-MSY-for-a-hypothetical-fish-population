@@ -1,12 +1,3 @@
-#####################################################################
-#Homework: estimating MSY, Bmsy, umsy from a 
-#general stock assessment model
-#FISH 458 School of Aquatic and Fishery Sciences
-#University of Washington
-#Michael Paschal, paschalm@uw.edu
-#May 1, 2018 - May 7, 2018
-#####################################################################
-
 rm(list=ls())     #get rid of existing global variables!!!
 
 #list of global model parameter values
